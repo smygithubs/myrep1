@@ -11,9 +11,16 @@ Hindi main bath karo ji
 
 Chinna ji Korona Ji
 
+
+--08/03/20 If statement is missing from the file which was updated from git-session
+to demonstart Indian and Anti-Indian.
+
+--080320 21:30 Merged the code
+
 if (bharat-matha-ki-jay){
 print Indian
 else
 {
 print anti-indian}
 
+>>>>>>> 34ae582a8b5009de71acf23c589393793d06e059
