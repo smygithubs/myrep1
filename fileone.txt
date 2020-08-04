@@ -10,3 +10,10 @@ Mitron ki namaskar...
 Hindi main bath karo ji
 
 Chinna ji Korona Ji
+
+if (bharat-matha-ki-jay){
+print Indian
+else
+{
+print anti-indian}
+
