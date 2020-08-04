@@ -10,3 +10,6 @@ Mitron ki namaskar...
 Hindi main bath karo ji
 
 Chinna ji Korona Ji
+
+If statement is missing from the file which was updated from git-session
+to demonstart Indian and Anti-Indian.
