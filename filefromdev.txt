@@ -1,0 +1,2 @@
+A sample file from branch dev.
+It will not appear in master until it is fetched and merged
