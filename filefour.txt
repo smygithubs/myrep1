@@ -1,3 +1,4 @@
 Create file in git master
 Check from local repo
 if not found , use merge
+Fixed some defects and moving the code to QA01
