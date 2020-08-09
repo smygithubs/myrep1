@@ -1,4 +1,8 @@
 Create file in git master
 Check from local repo
 if not found , use merge
-This file modifiewd in dev01 but making a different change in qa01
+
+This file modified in dev01 but making a different change in qa01
+
+Fixed some defects and moving the code to QA01
+
