@@ -1,0 +1,3 @@
+Create file in git master
+Check from local repo
+if not found , use merge
